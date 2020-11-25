@@ -1,0 +1,8 @@
+[1123/165045.667:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1123/194803.761:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1123/194803.787:ERROR:exception_snapshot_win.cc(99)] thread ID 14956 not found in process
+[1124/143324.712:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1124/145257.085:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\sanny\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\e5c38bbd-30a6-43ae-a4e5-dd228ece5027: The system cannot find the path specified. (0x3)
+[1124/192435.901:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1125/150124.873:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1125/183123.087:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
